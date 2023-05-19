@@ -1,0 +1,100 @@
+body {
+    background-image: url("colorful.webp");
+}
+
+#n1,
+#n2 {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 24px;
+    width: 400px;
+}
+
+button {
+    background-color: white;
+    font-size: 20px;
+    width: 155px;
+}
+
+h1 {
+    font-size: 40;
+}
+
+h2 {
+    font-size: 150;
+}
+
+.color {
+    padding: 20px;
+    float: none;
+    border-radius: 20px;
+    width: fit-content;
+    border-width: 5px;
+    border-style: inherit;
+    border-color: black;
+    font-size: 24px;
+    background-color: aliceblue;
+
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #cbf026;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#m {
+    font-size: 150px;
+
+}
+
+#mq {
+    font-size: 90px;
+
+}
+
+#player1,
+#player2 {
+    font-size: 26px;
+    font-family: monospace;
+}
+
+#p1_s,
+#p2_s {
+    font-size: 26px;
+    color: red;
+
+}
+
+#pa,
+#pq {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#w {
+    font-size: 25px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(7, 215, 7);
+    color: white;
+}
+
+#w:hover {
+    font-size: 25px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    color: rgb(7, 215, 7);
+}
+
+#num1,
+#num2 {
+    width: 800px;
+    border-radius: 50px;
+}
